@@ -23,7 +23,6 @@
   ],
   "license": "MIT",
   "scripts": {
-   # "build": "gatsby build",
     "build": "./build.sh",
     "develop": "gatsby develop",
     "start": "npm run develop",
